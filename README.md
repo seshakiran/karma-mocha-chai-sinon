@@ -12,16 +12,16 @@ This package installs the most useful unit testing package tools.
 
 This can be directly installed from the npmregistry as
 
-npm install khamocs
+<code>npm install khamocs</code>
 
 if needed globally
 
-npm install -g khamocs
+<code>npm install -g khamocs</cod>
 
 After the installtion is complete; karma can be initialized using
 
-karma init <myconf.js>
+<code>karma init "myconf.js"</code> (myconf.js) is your local config file created via <code> karma init myconf.js</code>
 
 or if to be used with an existing config file
 
-karma start </path to your config file/>
+<code>karma start "path to your config file"</code>

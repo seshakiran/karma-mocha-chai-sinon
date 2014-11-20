@@ -1,0 +1,32 @@
+{
+  "name": "khamocs",
+  "version": "0.0.3",
+  "description": "Unit tests package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+     "repository": {
+
+  },
+   "dependencies": {
+    "karma": "*",
+    "mocha": "*",
+    "chai": "*",
+    "sinon": "*"
+        },
+  "keywords": [
+    "Unit",
+    "tests",
+    "Karma",
+    "Mocha",
+    "Chai",
+    "Sinon"
+  ],
+  "author": "Kiran Adimatyam <sesha_kiran@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seshakiran/karma-mocha-chai-sinon"
+  },
+  "homepage": "https://github.com/seshakiran/karma-mocha-chai-sinon"
+}

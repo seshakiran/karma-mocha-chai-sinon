@@ -12,11 +12,11 @@ This package installs the most useful unit testing package tools.
 
 This can be directly installed from the npmregistry as
 
-<code>npm install khamocs</code>
+<code>npm install karma-mocha-chai-sinon</code>
 
 if needed globally
 
-<code>npm install -g khamocs</cod>
+<code>npm install -g karma-mocha-chai-sinon</cod>
 
 After the installtion is complete; karma can be initialized using
 

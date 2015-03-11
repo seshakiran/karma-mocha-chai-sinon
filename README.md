@@ -1,6 +1,8 @@
 karma-mocha-chai-sinon
 ======================
 
+[![Join the chat at https://gitter.im/seshakiran/karma-mocha-chai-sinon](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/seshakiran/karma-mocha-chai-sinon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Javascript unit testing tools in one simple package
 
 This package installs the most useful unit testing package tools.
